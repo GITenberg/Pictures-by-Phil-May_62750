@@ -1,0 +1,28 @@
+_repo: Pictures-by-Phil-May_62750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: May, Phil
+    alias: Summers, Charlie
+    birthdate: 1864
+    deathdate: 1903
+    gutenberg_agent_id: '37403'
+    url: http://www.gutenberg.org/2009/agents/37403
+    wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Humorous masterpieces, no. 5
+subjects:
+- !lcc 'NC'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- GITenberg
+title: Pictures by Phil May
+url: http://www.gutenberg.org/ebooks/62750
